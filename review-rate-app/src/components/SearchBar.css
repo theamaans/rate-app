@@ -1,0 +1,8 @@
+.search-bar {
+  display: flex;
+  margin: 20px 0;
+}
+.search-bar select,
+.search-bar button {
+  margin-right: 10px;
+}
